@@ -1,44 +1,30 @@
-# [BlackPlus](https;//telegram.me/blackplus) > [GitHub](https://GitHub.com/Mehdi-HS/BlackPlus) | [Site](http://BlackPlus.ir) |  [Channel](https://telegram.me/black_ch)
+# [kiarash_lua](https;//telegram.me/kiarash_TG) > [GitHub](https://GitHub.com/Kiarash2016/kiarash_lua) [Channel](https://telegram.me/kiarash_lua)
 * * *
 *New Bot For Manage Your SuperGroups.
 
 *A Advanced Bot Based In Teleseed (Normal Groups)
 
 * * *
-# [BlackPlus](https://telegram.me/Blackplus) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
+# [kiarash_lua](https://telegram.me/kiarash_TG) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # آموزش نصب سروس
 1. کد زیر را در ترمینال وارد کنید.
 
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/mehdi-hs/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/Kiarash2016/kiarash_lua.git && cd kiarash_lua && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 
 2.بعد از چند دقیقه ربات از شما شماره ای میگیره که روبات روی اون نصب شه...
 بعد از وارد کردن شماره و وارد کردن کد در صورتی ربات در اکانت مورد نظر نصب شد ترمینال را ببندید و ترمینال جدید باز کنید
 سپس دستور زیر را بزنید...
 
-cd BlackPlus 
+cd kiarash_lua 
 
 دقت کنید که در دستور بالا حرف سی و پی رو کپتال بنویسید که اررور نده
 بعد این کد رو بزنید
 
-tmux new-session -s script "bash blackplus.sh -t"
-# (از آنتی کرش در سرور های مجانی نمیتوانید استفاده کنید)
+./launch.sh
 
 
 بعد از چند ثانیه ربات ران میشه
 
-# قسمت دوم این آموزش برای فعال کردن آنتی کرش هست و از این به بعد اگر ربات آف شد مرحله 2 رو انجام دهید
-
-برای سودو کردن خودتون هم در پوشه دیتا فیل کافیگ رو ادیت کنید و در قسمت سودو یوزر ایدی عددی خودتون رو بنویسید
-
-هر هفته میتوانید با دستور های زیر جدید ترین پلاگین ها و آپدیت هارو دریافت کنید.
-
-اول در ترمینال دستور زیر را تایپ کنید
-
-cd BlackPlus
-
-سپس این دستور را وارد کنید.
-
-git pull
 
 * * *
 # Features
@@ -94,7 +80,7 @@ git pull
 * * *
 
 ## Commands
-BlackPlus has several commands that are only usable at certain ranks.
+Kiarash_lua has several commands that are only usable at certain ranks.
 
 
 ## General Commands {#general_commands}
@@ -308,17 +294,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/mehdi-hs/BlackPlus.git
-cd BlackPlus
+git clone https://github.com/Kiarash2016/kiarash_lua.git
+cd kiarash_lua
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
-```
-### One command
-To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
-```sh
-#https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/mehdi-hs/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -352,14 +332,7 @@ Create a realm using the `!createrealm` command.
 
 # Our team!
 
-[MehdiHS](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/MehdiHS))
-
-[YflQw](https://github.com/Mehdi-HS) ([Telegram](https://telegram.me/YflQw))
-
-[Alireza NiGht](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/ye_adam_mamoli))
-
-[Surena](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/mr_surena))
-
+[kiarashTG](https://github.com/Kiarash2016)  [Telegram](https://Telegram.me/Kiarash_TG
 ###  Telegram channel :
 
-[@Black_CH](https://telegram.me/Black_CH)
+[@Kiarash_lua](https://telegram.me/Kiarash_Lua)
