@@ -5,15 +5,9 @@ function run(msg, matches)
 -----------------------------------
 A new bot for manage your SuperGroups.
 -----------------------------------
-@Black_CH #Channel
+@Kiarash_lua #Channel
 -----------------------------------
-@MehdiHS #developer
------------------------------------
-@YflQw #manager
------------------------------------
-@Mr_Surena #manager
------------------------------------
-Bot number : +19092545429
+@Kiarash_TG #developer
 -----------------------------------
 Bot version : 6.7 ]]
 end
@@ -21,15 +15,8 @@ return {
   description = ".", 
   usage = "use black command",
   patterns = {
-    "^/black$",
-    "^!black$",
-    "^%bLack$",
-    "^$black$",
-   "^#Black$",
-   "^#Black",
-   "^/black$",
-   "^#black$",
-
+    "^/kiarash$",
+    
   },
   run = run
 }
