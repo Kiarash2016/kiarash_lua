@@ -1,5 +1,5 @@
 
---- https://telegram.me/MehdiHS
+--- https://telegram.me/Kiarash_TG
 do
 
 function run(msg, matches)
@@ -16,5 +16,5 @@ run = run
 
 end
 
---- https://telegram.me/MehdiHS
---- Https://telegram.me/Black_ch
+--- https://telegram.me/Kiarash_TG
+--- Https://telegram.me/kiarash_LUA
